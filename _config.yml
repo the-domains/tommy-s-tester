@@ -1,0 +1,28 @@
+name: "Tommy's Tester"
+favicon: null
+layout_spectrum: 0.1255000822711736
+typography_spectrum: 0.30485415924340487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3779222897719592
+  lightness: 0.7153518961276859
+  saturation: 0.6464069199282676
+  rhythmicContrast: 0.7355040395632386
+purpose: []
